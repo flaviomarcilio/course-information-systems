@@ -13,3 +13,5 @@ O profissional na área atua no desenvolvimento tecnológico dos Sistemas de Inf
 - [Programação e Desenvolvimento de Software I](PDSI/pds1.md)
 - [Programação e Desenvolvimento de Software II](PDSII/pds2.md)
 - [Álgebra Linear Computacional](ALC/alc.md)
+- [Introdução à Banco de Dados](IBD/ibd.md)
+- [Estrutura de Dados](ED/ed.md)

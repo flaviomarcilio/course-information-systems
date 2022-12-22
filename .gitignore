@@ -13,6 +13,7 @@
 *.d
 
 # Object files
+[Oo]bj
 *.o
 *.ko
 *.obj
@@ -40,6 +41,7 @@
 *.dylib
 
 # Executables
+[Bb]in
 *.exe
 *.out
 *.app
