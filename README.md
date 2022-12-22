@@ -15,3 +15,4 @@ O profissional na área atua no desenvolvimento tecnológico dos Sistemas de Inf
 - [Álgebra Linear Computacional](ALC/alc.md)
 - [Introdução à Banco de Dados](IBD/ibd.md)
 - [Estrutura de Dados](ED/ed.md)
+- [Introdução aos Sistemas Lógicos](ISL/isl.md)
