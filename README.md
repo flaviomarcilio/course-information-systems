@@ -16,3 +16,4 @@ O profissional na área atua no desenvolvimento tecnológico dos Sistemas de Inf
 - [Introdução à Banco de Dados](IBD/ibd.md)
 - [Estrutura de Dados](ED/ed.md)
 - [Introdução aos Sistemas Lógicos](ISL/isl.md)
+- [Organização de Computadores I](OCI/oc1.md)
