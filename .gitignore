@@ -5,6 +5,9 @@
 *.txt
 *.vscode
 
+### Jupyter Notebooks
+.ipynb_checkpoints
+
 ### C ###
 # Prerequisites
 *.d
