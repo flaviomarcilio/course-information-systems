@@ -17,3 +17,4 @@ O profissional na área atua no desenvolvimento tecnológico dos Sistemas de Inf
 - [Estrutura de Dados](ED/ed.md)
 - [Introdução aos Sistemas Lógicos](ISL/isl.md)
 - [Organização de Computadores I](OCI/oc1.md)
+- [Algoritmos I](ALGI/alg1.md)
