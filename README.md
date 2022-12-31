@@ -10,11 +10,19 @@ O profissional na área atua no desenvolvimento tecnológico dos Sistemas de Inf
 
 ## Atividades e Trabalhos
 
+### 1º Período
 - [Programação e Desenvolvimento de Software I](PDSI/pds1.md)
-- [Programação e Desenvolvimento de Software II](PDSII/pds2.md)
+
+### 2º Período
 - [Álgebra Linear Computacional](ALC/alc.md)
-- [Introdução à Banco de Dados](IBD/ibd.md)
+- [Programação e Desenvolvimento de Software II](PDSII/pds2.md)
+
+### 3º Período
 - [Estrutura de Dados](ED/ed.md)
+- [Introdução à Banco de Dados](IBD/ibd.md)
 - [Introdução aos Sistemas Lógicos](ISL/isl.md)
-- [Organização de Computadores I](OCI/oc1.md)
+
+### 4º Período
 - [Algoritmos I](ALGI/alg1.md)
+- [Organização de Computadores I](OCI/oc1.md)
+- [Introdução à Computação Visual](ICV/icv.md)
